@@ -10,7 +10,7 @@ public class InheritanceMain {
         Vans vans = new Vans();
         // Cars 객체생성
         Cars cars = new Cars(3);
-        System.out.println("확인용");
+        // System.out.println("확인용");
     }
 
 }

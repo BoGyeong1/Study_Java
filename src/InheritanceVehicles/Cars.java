@@ -6,7 +6,7 @@ public class Cars extends Vehicles {
     // Constructor
     Cars(int oneway_count) {
         this.oneway_count = oneway_count;
-        System.out.println("확인용");
+        // System.out.println("확인용");
     }
 
     // public Method speed 재정의
